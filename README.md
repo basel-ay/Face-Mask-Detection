@@ -24,6 +24,8 @@ It is used for the detection of objects in an image. Using a basic architecture 
 
 ![](https://www.researchgate.net/profile/Adam_Nowosielski/publication/332948824/figure/fig5/AS:767146284036100@1559913335810/The-model-of-Single-Shot-MultiBox-Detector-SSD-25.ppm)
 
+![](https://pyimagesearch.com/wp-content/uploads/2018/02/deep_learning_face_detection_opencv.gif)
+
 Datasets :
 * Face Mask Detection Dataset : https://www.kaggle.com/wobotintelligence/face-mask-detection-dataset
 * Caffe Face Detector (OpenCV Pre-trained Model) : https://www.kaggle.com/sambitmukherjee/caffe-face-detector-opencv-pretrained-model
